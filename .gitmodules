@@ -1,0 +1,3 @@
+[submodule "simple-java-project"]
+	path = simple-java-project
+	url = https://github.com/buddy-works/simple-java-project.git
